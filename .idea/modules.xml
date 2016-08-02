@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/doub.iml" filepath="$PROJECT_DIR$/doub.iml" />
+      <module fileurl="file://$PROJECT_DIR$/doub-attachment/doub-attachment.iml" filepath="$PROJECT_DIR$/doub-attachment/doub-attachment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/doub-common/doub-common.iml" filepath="$PROJECT_DIR$/doub-common/doub-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/doub-monitor/doub-monitor.iml" filepath="$PROJECT_DIR$/doub-monitor/doub-monitor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/doub-register/doub-register.iml" filepath="$PROJECT_DIR$/doub-register/doub-register.iml" />
+      <module fileurl="file://$PROJECT_DIR$/doub-remoting/doub-remoting.iml" filepath="$PROJECT_DIR$/doub-remoting/doub-remoting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/doub-remoting/doub-remoting-api/doub-remoting-api.iml" filepath="$PROJECT_DIR$/doub-remoting/doub-remoting-api/doub-remoting-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/doub-remoting/doub-remoting-netty/doub-remoting-netty.iml" filepath="$PROJECT_DIR$/doub-remoting/doub-remoting-netty/doub-remoting-netty.iml" />
+    </modules>
+  </component>
+</project>
