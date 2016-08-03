@@ -1,0 +1,11 @@
+package doub;
+option java_package = "com.xxx.doub.remoting.exchange";
+option java_outer_classname = "RequestProto";
+
+message Request
+{
+	required int32 id = 1;
+	optional string type = 2;
+	optional bytes data;
+}
+
