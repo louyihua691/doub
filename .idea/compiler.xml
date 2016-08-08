@@ -28,6 +28,8 @@
         <module name="doub-register" />
         <module name="doub-remoting-api" />
         <module name="doub-remoting-netty" />
+        <module name="doub-rpc-api" />
+        <module name="doub-rpc-protobuf" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -39,6 +41,9 @@
       <module name="doub-remoting" target="1.5" />
       <module name="doub-remoting-api" target="1.5" />
       <module name="doub-remoting-netty" target="1.5" />
+      <module name="doub-rpc" target="1.5" />
+      <module name="doub-rpc-api" target="1.5" />
+      <module name="doub-rpc-protobuf" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

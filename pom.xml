@@ -4,7 +4,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>doub</groupId>
+    <groupId>com.xxx</groupId>
     <artifactId>doub</artifactId>
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
@@ -14,6 +14,8 @@
         <module>doub-common</module>
         <module>doub-remoting</module>
         <module>doub-attachment</module>
+        <module>doub-rpc</module>
+        <module>doub-rpc</module>
     </modules>
 
     <properties>

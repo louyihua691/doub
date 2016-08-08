@@ -1,11 +1,32 @@
 package doub;
-option java_package = "com.xxx.doub.remoting.exchange";
+option java_package = "com.xxx.doub.remoting.exchange.protobuf";
 option java_outer_classname = "RequestProto";
 
 message Request
 {
 	required int32 id = 1;
-	optional string type = 2;
-	optional bytes data;
+	optional EventType eventType = 2;
+	
+	enum EventType
+	{
+		MESSAGE = 0;
+		
+		FILE = 1;
+	}
+	
+	message File
+	{
+		optional bytes data = 1;
+		optional string fileType = 2;
+		optional int64 fileLength = 3;
+	}
+	
+	message Message
+	{
+		optional string data = 1;
+	}
+	
+	optional File file = 3;
+	optional Message message = 4;
 }
 

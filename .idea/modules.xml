@@ -10,6 +10,9 @@
       <module fileurl="file://$PROJECT_DIR$/doub-remoting/doub-remoting.iml" filepath="$PROJECT_DIR$/doub-remoting/doub-remoting.iml" />
       <module fileurl="file://$PROJECT_DIR$/doub-remoting/doub-remoting-api/doub-remoting-api.iml" filepath="$PROJECT_DIR$/doub-remoting/doub-remoting-api/doub-remoting-api.iml" />
       <module fileurl="file://$PROJECT_DIR$/doub-remoting/doub-remoting-netty/doub-remoting-netty.iml" filepath="$PROJECT_DIR$/doub-remoting/doub-remoting-netty/doub-remoting-netty.iml" />
+      <module fileurl="file://$PROJECT_DIR$/doub-rpc/doub-rpc.iml" filepath="$PROJECT_DIR$/doub-rpc/doub-rpc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/doub-rpc/doub-rpc-api/doub-rpc-api.iml" filepath="$PROJECT_DIR$/doub-rpc/doub-rpc-api/doub-rpc-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/doub-rpc/doub-rpc-protobuf/doub-rpc-protobuf.iml" filepath="$PROJECT_DIR$/doub-rpc/doub-rpc-protobuf/doub-rpc-protobuf.iml" />
     </modules>
   </component>
 </project>
